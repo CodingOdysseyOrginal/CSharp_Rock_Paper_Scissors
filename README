@@ -12,13 +12,13 @@ This project serves as a stepping stone for learning C#, covering fundamental pr
 
 ## Prerequisites
 To run this program, you need:
-- .NET SDK installed ([Download .NET](https://dotnet.microsoft.com/en-us/download))
+- .NET SDK installed
 - A code editor (e.g., Visual Studio Code, Visual Studio, or any text editor)
 
 ## Setup Instructions
 1. **Clone or Download the Repository**
    ```sh
-   git clone https://github.com/your-repository/rock-paper-scissors-csharp.git
+   git clone git@github.com:CodingOdysseyOrginal/CSharp_Rock_Paper_Scissors.git
    cd rock-paper-scissors-csharp
    ```
 

@@ -20,33 +20,3 @@ To run this program, you need:
    ```sh
    git clone git@github.com:CodingOdysseyOrginal/CSharp_Rock_Paper_Scissors.git
    cd rock-paper-scissors-csharp
-   ```
-
-2. **Compile and Run the Program**
-   - If using the command line, navigate to the project folder and run:
-     ```sh
-     dotnet run
-     ```
-   - If using Visual Studio, open the project and click "Run."
-
-## How to Play
-1. The program will prompt you to choose between Rock, Paper, or Scissors.
-2. Type your choice and press Enter.
-3. The computer will randomly select its move.
-4. The result of the round will be displayed (Win, Lose, or Draw).
-5. The game will ask if you want to play again (`y` for yes, `n` for no).
-6. The final score is displayed when you quit the game.
-
-## Learning Objectives
-This project is a stepping stone to understanding basic C# syntax
-- Writing structured code with loops and conditions.
-- Handling user input and validating choices.
-- Working with random values for game logic.
-- Managing program flow using loops.
-
-## Contributions
-Feel free to fork this project and enhance its functionality! If you find any issues, submit a pull request or open an issue.
-
-## License
-This project is open-source and free to use. Modify and distribute as needed!
-

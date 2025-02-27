@@ -38,16 +38,11 @@ To run this program, you need:
 6. The final score is displayed when you quit the game.
 
 ## Learning Objectives
-This project is an excellent introduction to C# programming and helps build confidence in:
+This project is a stepping stone to understanding basic C# syntax
 - Writing structured code with loops and conditions.
 - Handling user input and validating choices.
 - Working with random values for game logic.
 - Managing program flow using loops.
-
-## Future Improvements
-- Add a graphical user interface (GUI) using Windows Forms or WPF.
-- Implement a scoring system with history saved to a file.
-- Introduce more advanced C# concepts like object-oriented programming.
 
 ## Contributions
 Feel free to fork this project and enhance its functionality! If you find any issues, submit a pull request or open an issue.
